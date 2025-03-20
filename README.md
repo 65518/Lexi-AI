@@ -39,7 +39,6 @@ Now, open your web browser, and boom! 💥 You're chatting with Lexi AI!
 
 ![Screenshot 2025-03-14 115757](https://github.com/user-attachments/assets/e16dd409-48a6-4c9d-9ee3-b45fec52b440)
 ![Screenshot 2025-03-14 115720](https://github.com/user-attachments/assets/b927ba0e-e38d-49c1-aecd-26fa364f01a1)
-![Screenshot 2025-03-14 120008](https://github.com/user-attachments/assets/2f5f8b66-86cc-4c8c-9739-3b8bbd3cc399)
 ![Screenshot 2025-03-14 120019](https://github.com/user-attachments/assets/a6e87563-c2a2-412e-ae21-e0f94108d4ea)
 ![Screenshot 2025-03-14 120756](https://github.com/user-attachments/assets/a52a4ec0-5b07-4197-b2a3-c88a8943c28d)
 
